@@ -1,3 +1,3 @@
-# coffee-preview package
+# Coffee-script Preview
 
-A short description of your package.
+Output the result of some coffee-script to an editor.
