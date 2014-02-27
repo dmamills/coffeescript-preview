@@ -1,0 +1,16 @@
+{
+  "name": "coffee-preview",
+  "main": "./lib/coffee-preview",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Preview Coffeescript",
+  "activationEvents": ["coffee-preview:toggle"],
+  "repository": "https://github.com/atom/coffee-preview",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "coffee-script":">1.7.0"
+  }
+}
